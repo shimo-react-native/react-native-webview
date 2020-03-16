@@ -8,7 +8,7 @@
     "Thibault Malbranche <malbranche.thibault@gmail.com>"
   ],
   "license": "MIT",
-  "version": "7.6.0-shimo.1",
+  "version": "7.6.0-shimo.2",
   "homepage": "https://github.com/react-native-community/react-native-webview#readme",
   "publishConfig": {
     "registry": "http://registry.npm.shimo.run/"
